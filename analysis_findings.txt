@@ -1,0 +1,50 @@
+=== DATA CLEANING LOG ===
+
+Standardized date formats across 6090 rows (0 unparseable, dropped)
+Removed 82 duplicate transaction rows
+Filled 122 missing unit_price values using product catalog lookup
+Corrected 61 negative quantity_sold values (sign entry errors)
+
+Final clean dataset: 6008 transactions (from 6090 raw rows)
+Total data quality issues resolved: 265
+
+
+=== ANALYSIS ===
+
+Total transactions analyzed: 6,008
+Total revenue: $4,053,637.05
+Total profit: $1,698,724.96
+Overall margin: 41.9%
+
+Revenue by category:
+  Apparel: $957,817.85 (23.6%)
+  Grocery: $875,925.30 (21.6%)
+  Health & Beauty: $799,915.23 (19.7%)
+  Home & Living: $745,133.69 (18.4%)
+  Electronics: $674,844.97 (16.6%)
+
+Revenue by region:
+  Auckland: $1,620,175.36
+  Dunedin: $843,095.64
+  Christchurch: $805,865.89
+  Hamilton: $410,625.23
+  Wellington: $373,874.93
+
+Avg transaction value — discounted: $640.95 vs full-price: $719.96
+
+Top 5 profit-driving products:
+  At Small Appliance: $38,622.25
+  Community Men: $36,189.15
+  Former Women: $29,413.03
+  Town Audio: $27,549.37
+  Open Women: $25,868.27
+
+Peak sales month: 2024-12 ($595,435.45)
+
+Inventory at/below reorder point: 140 of 1455 store-product combinations (9.6%)
+Stockout risk by category:
+  Grocery: 34 store-product combos at risk
+  Health & Beauty: 30 store-product combos at risk
+  Electronics: 30 store-product combos at risk
+  Apparel: 26 store-product combos at risk
+  Home & Living: 20 store-product combos at risk

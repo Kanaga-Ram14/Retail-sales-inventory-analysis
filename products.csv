@@ -1,0 +1,171 @@
+product_id,product_name,category,subcategory,unit_cost,unit_price
+1,Game Snack,Grocery,Snacks,27.33,38.35
+2,Yourself Snack,Grocery,Snacks,51.34,81.57
+3,City Snack,Grocery,Snacks,67.02,91.88
+4,Indicate Snack,Grocery,Snacks,68.72,167.47
+5,Rather Snack,Grocery,Snacks,76.41,152.79
+6,Anything Snack,Grocery,Snacks,9.3,18.62
+7,Baby Snack,Grocery,Snacks,7.85,12.29
+8,Tend Snack,Grocery,Snacks,67.69,98.81
+9,North Snack,Grocery,Snacks,51.46,100.29
+10,Between Snack,Grocery,Snacks,69.37,136.82
+11,History Snack,Grocery,Snacks,82.48,117.42
+12,Pass Snack,Grocery,Snacks,69.4,105.87
+13,Article Beverage,Grocery,Beverages,66.63,91.64
+14,Where Beverage,Grocery,Beverages,9.03,13.97
+15,Movement Beverage,Grocery,Beverages,82.29,149.2
+16,Difficult Beverage,Grocery,Beverages,39.07,78.24
+17,Always Beverage,Grocery,Beverages,55.48,92.08
+18,Before Beverage,Grocery,Beverages,95.74,204.77
+19,Leader Beverage,Grocery,Beverages,30.8,61.27
+20,Kid Beverage,Grocery,Beverages,63.97,150.34
+21,Available Dairy,Grocery,Dairy,35.98,89.09
+22,Effect Dairy,Grocery,Dairy,15.93,28.7
+23,Believe Dairy,Grocery,Dairy,91.34,135.4
+24,Ok Dairy,Grocery,Dairy,59.7,80.42
+25,Language Dairy,Grocery,Dairy,80.85,179.28
+26,Artist Dairy,Grocery,Dairy,69.62,163.65
+27,The Dairy,Grocery,Dairy,39.02,83.28
+28,Others Dairy,Grocery,Dairy,72.14,143.98
+29,Candidate Dairy,Grocery,Dairy,55.83,128.85
+30,Yourself Dairy,Grocery,Dairy,113.47,212.07
+31,Dog Dairy,Grocery,Dairy,80.37,110.33
+32,Professor Bakery,Grocery,Bakery,78.36,195.25
+33,Product Bakery,Grocery,Bakery,98.99,162.49
+34,Pass Bakery,Grocery,Bakery,47.52,99.91
+35,Yourself Bakery,Grocery,Bakery,4.66,8.64
+36,Assume Bakery,Grocery,Bakery,21.83,31.45
+37,Part Bakery,Grocery,Bakery,8.96,19.91
+38,Pay Bakery,Grocery,Bakery,17.26,27.57
+39,Industry Bakery,Grocery,Bakery,48.13,112.9
+40,Appear Bakery,Grocery,Bakery,11.51,21.17
+41,Do Bakery,Grocery,Bakery,66.83,157.72
+42,Any Audio,Electronics,Audio,103.95,169.87
+43,Onto Audio,Electronics,Audio,51.0,88.26
+44,Town Audio,Electronics,Audio,106.33,260.43
+45,Cell Audio,Electronics,Audio,19.81,29.94
+46,Figure Audio,Electronics,Audio,29.37,46.4
+47,Kind Audio,Electronics,Audio,59.23,118.87
+48,Charge Audio,Electronics,Audio,33.0,43.06
+49,Now Audio,Electronics,Audio,51.44,89.67
+50,Buy Audio,Electronics,Audio,68.83,168.2
+51,Own Audio,Electronics,Audio,83.48,160.16
+52,Foot Audio,Electronics,Audio,74.88,158.1
+53,Opportunity Mobile Accessorie,Electronics,Mobile Accessories,55.88,131.05
+54,Team Mobile Accessorie,Electronics,Mobile Accessories,114.32,241.98
+55,Rest Mobile Accessorie,Electronics,Mobile Accessories,67.99,120.86
+56,Course Mobile Accessorie,Electronics,Mobile Accessories,48.51,91.09
+57,Board Mobile Accessorie,Electronics,Mobile Accessories,49.25,75.29
+58,Party Mobile Accessorie,Electronics,Mobile Accessories,118.19,216.14
+59,Own Mobile Accessorie,Electronics,Mobile Accessories,14.97,30.25
+60,Purpose Mobile Accessorie,Electronics,Mobile Accessories,14.08,27.88
+61,Cup Small Appliance,Electronics,Small Appliances,13.97,24.26
+62,Hotel Small Appliance,Electronics,Small Appliances,5.01,11.77
+63,Bill Small Appliance,Electronics,Small Appliances,74.46,110.07
+64,Officer Small Appliance,Electronics,Small Appliances,31.77,54.54
+65,Seem Small Appliance,Electronics,Small Appliances,44.97,65.09
+66,At Small Appliance,Electronics,Small Appliances,102.17,254.58
+67,Organization Small Appliance,Electronics,Small Appliances,56.99,107.18
+68,As Small Appliance,Electronics,Small Appliances,12.13,17.26
+69,Present Small Appliance,Electronics,Small Appliances,42.43,68.64
+70,Describe Small Appliance,Electronics,Small Appliances,99.8,149.07
+71,Model Small Appliance,Electronics,Small Appliances,4.73,11.55
+72,Response Small Appliance,Electronics,Small Appliances,64.33,94.95
+73,Night Kitchenware,Home & Living,Kitchenware,109.87,242.79
+74,Late Kitchenware,Home & Living,Kitchenware,37.17,77.0
+75,Standard Kitchenware,Home & Living,Kitchenware,12.74,29.49
+76,Former Kitchenware,Home & Living,Kitchenware,63.17,150.97
+77,Make Kitchenware,Home & Living,Kitchenware,43.97,68.92
+78,Pay Kitchenware,Home & Living,Kitchenware,65.9,125.42
+79,Wind Kitchenware,Home & Living,Kitchenware,77.1,156.97
+80,Long Kitchenware,Home & Living,Kitchenware,95.03,210.02
+81,High Kitchenware,Home & Living,Kitchenware,25.03,39.73
+82,Firm Kitchenware,Home & Living,Kitchenware,49.28,111.57
+83,Energy Kitchenware,Home & Living,Kitchenware,25.59,48.4
+84,Study Kitchenware,Home & Living,Kitchenware,88.26,219.55
+85,Couple Bedding,Home & Living,Bedding,57.72,88.45
+86,Say Bedding,Home & Living,Bedding,73.41,125.76
+87,State Bedding,Home & Living,Bedding,97.41,211.16
+88,Either Bedding,Home & Living,Bedding,43.24,106.78
+89,Beat Bedding,Home & Living,Bedding,11.5,16.36
+90,Paper Bedding,Home & Living,Bedding,57.47,98.0
+91,First Bedding,Home & Living,Bedding,58.95,146.33
+92,Network Bedding,Home & Living,Bedding,74.01,96.38
+93,Miss Bedding,Home & Living,Bedding,109.29,187.19
+94,Type Bedding,Home & Living,Bedding,77.89,179.27
+95,Gun Decor,Home & Living,Decor,109.35,244.81
+96,Shoulder Decor,Home & Living,Decor,90.52,169.6
+97,List Decor,Home & Living,Decor,23.07,51.84
+98,Field Decor,Home & Living,Decor,41.24,93.24
+99,Politics Decor,Home & Living,Decor,116.66,207.07
+100,Baby Decor,Home & Living,Decor,49.36,120.25
+101,Buy Decor,Home & Living,Decor,87.53,131.65
+102,Music Decor,Home & Living,Decor,16.99,25.17
+103,Kid Men,Apparel,Mens,97.17,143.37
+104,Community Men,Apparel,Mens,99.53,246.47
+105,Sometimes Men,Apparel,Mens,79.56,136.88
+106,Guess Men,Apparel,Mens,66.74,97.25
+107,Civil Men,Apparel,Mens,3.68,9.07
+108,Worker Men,Apparel,Mens,78.66,151.96
+109,Middle Men,Apparel,Mens,112.17,204.21
+110,Know Men,Apparel,Mens,104.87,240.3
+111,Among Men,Apparel,Mens,26.9,43.1
+112,Relate Men,Apparel,Mens,36.57,58.1
+113,Bank Men,Apparel,Mens,71.2,114.72
+114,South Women,Apparel,Womens,100.44,137.91
+115,Open Women,Apparel,Womens,89.31,212.31
+116,Page Women,Apparel,Womens,80.17,182.63
+117,Strategy Women,Apparel,Womens,62.98,144.39
+118,Type Women,Apparel,Womens,105.62,153.88
+119,Television Women,Apparel,Womens,19.92,38.1
+120,Former Women,Apparel,Womens,104.99,234.32
+121,Grow Women,Apparel,Womens,73.81,164.69
+122,Run Women,Apparel,Womens,19.68,28.93
+123,Hard Women,Apparel,Womens,75.05,108.4
+124,Phone Women,Apparel,Womens,9.29,19.68
+125,Model Kid,Apparel,Kids,67.54,151.37
+126,Particularly Kid,Apparel,Kids,14.52,28.64
+127,Subject Kid,Apparel,Kids,31.32,51.12
+128,Loss Kid,Apparel,Kids,93.13,177.81
+129,Authority Kid,Apparel,Kids,68.28,151.03
+130,Though Kid,Apparel,Kids,109.67,200.9
+131,Better Kid,Apparel,Kids,74.28,141.63
+132,You Kid,Apparel,Kids,62.44,133.08
+133,Expect Kid,Apparel,Kids,55.38,107.43
+134,Matter Kid,Apparel,Kids,58.41,141.92
+135,Same Kid,Apparel,Kids,84.51,198.75
+136,Red Kid,Apparel,Kids,113.18,182.39
+137,Attention Skincare,Health & Beauty,Skincare,107.35,165.65
+138,Ask Skincare,Health & Beauty,Skincare,54.81,98.66
+139,Side Skincare,Health & Beauty,Skincare,48.3,81.1
+140,Science Skincare,Health & Beauty,Skincare,81.2,147.3
+141,Force Skincare,Health & Beauty,Skincare,27.1,45.08
+142,Radio Skincare,Health & Beauty,Skincare,16.44,36.7
+143,Participant Skincare,Health & Beauty,Skincare,112.86,233.86
+144,Responsibility Skincare,Health & Beauty,Skincare,45.21,72.5
+145,Term Skincare,Health & Beauty,Skincare,18.2,33.88
+146,Like Skincare,Health & Beauty,Skincare,90.11,127.32
+147,Feel Skincare,Health & Beauty,Skincare,106.42,159.14
+148,Sense Skincare,Health & Beauty,Skincare,80.8,126.73
+149,Imagine Haircare,Health & Beauty,Haircare,119.3,212.9
+150,Very Haircare,Health & Beauty,Haircare,51.71,89.35
+151,Relate Haircare,Health & Beauty,Haircare,12.88,22.4
+152,Hand Haircare,Health & Beauty,Haircare,41.88,77.49
+153,Agency Haircare,Health & Beauty,Haircare,84.97,149.65
+154,Yeah Haircare,Health & Beauty,Haircare,63.06,104.34
+155,Main Haircare,Health & Beauty,Haircare,115.37,165.6
+156,Hear Haircare,Health & Beauty,Haircare,110.39,173.78
+157,Concern Haircare,Health & Beauty,Haircare,105.41,147.67
+158,Popular Haircare,Health & Beauty,Haircare,34.09,81.38
+159,But Haircare,Health & Beauty,Haircare,23.42,51.69
+160,Minute Wellnes,Health & Beauty,Wellness,102.25,215.87
+161,Artist Wellnes,Health & Beauty,Wellness,113.63,203.07
+162,Discover Wellnes,Health & Beauty,Wellness,65.32,125.27
+163,Special Wellnes,Health & Beauty,Wellness,60.36,102.16
+164,Field Wellnes,Health & Beauty,Wellness,34.93,78.92
+165,Carry Wellnes,Health & Beauty,Wellness,23.63,56.11
+166,Single Wellnes,Health & Beauty,Wellness,33.73,44.53
+167,End Wellnes,Health & Beauty,Wellness,12.45,20.08
+168,Information Wellnes,Health & Beauty,Wellness,73.76,115.57
+169,Include Wellnes,Health & Beauty,Wellness,33.21,48.02
+170,Whom Wellnes,Health & Beauty,Wellness,3.36,8.38
